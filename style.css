@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  background-color: #cacaca;
+  margin:15px;
+  padding:10px;
+display:flex;
+  flex-direction: row;
+  justify-content:center;
+  flex-wrap:wrap;
+  align-items: center;
+  
+}
+.item{
+  background:#a25d5d;
+  color:wheat;
+  padding:5px;
+  font-size:35px;
+}
